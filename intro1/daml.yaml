@@ -1,0 +1,8 @@
+sdk-version: 2.10.2
+name: intro1
+source: daml
+version: 1.0.0
+dependencies:
+  - daml-prim
+  - daml-stdlib
+  - daml-script
